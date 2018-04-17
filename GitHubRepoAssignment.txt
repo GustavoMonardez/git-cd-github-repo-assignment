@@ -1,0 +1,12 @@
+Github steps:
+1. go to github
+2. click new repository
+3. give it a name
+4. create repo
+
+Local machine:
+1. md GitHubRepoAssignment
+2. copy NUL readme.md
+3. edit readme file
+4. git status, git add and git commit -m "added readme file"
+5.

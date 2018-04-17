@@ -9,4 +9,5 @@ Local machine:
 2. copy NUL readme.md
 3. edit readme file
 4. git status, git add and git commit -m "added readme file"
-5.
+5. git remote add origin git@github.com:gitIT56/GitHubRepoAssignment.git
+6. git push -u origin master
